@@ -1,6 +1,6 @@
 # Bonds on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/bonds?utm_medium=integration&utm_source=button&utm_campaign=bonds)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/bonds?utm_medium=integration&utm_source=button&utm_campaign=bonds)
 
 Deploy [Bonds](https://github.com/naiba/bonds) with Railway PostgreSQL and persistent storage.
 
