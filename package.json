@@ -21,7 +21,7 @@
 		"@tsconfig/node-ts": "23.6.4",
 		"@tsconfig/node24": "24.0.5",
 		"@tsconfig/strictest": "2.0.8",
-		"@types/node": "24.13.4",
+		"@types/node": "24.13.5",
 		"knip": "6.35.1",
 		"oxfmt": "0.68.0",
 		"oxlint": "1.83.0",
