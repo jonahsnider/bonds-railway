@@ -1,4 +1,4 @@
-FROM ghcr.io/naiba/bonds:0.22.18
+FROM ghcr.io/naiba/bonds:0.22.19
 
 ENV APP_ENV=production \
     BACKUP_DIR=/app/data/backups \
