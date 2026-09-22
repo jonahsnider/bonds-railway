@@ -23,7 +23,7 @@
 		"@tsconfig/strictest": "2.0.8",
 		"@types/node": "24.13.6",
 		"knip": "6.36.0",
-		"oxfmt": "0.68.0",
+		"oxfmt": "0.69.0",
 		"oxlint": "1.83.0",
 		"oxlint-tsgolint": "7.0.2002",
 		"typescript": "7.0.2"
