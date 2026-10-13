@@ -167,8 +167,8 @@ importers:
   .:
     dependencies:
       railway:
-        specifier: 3.14.0
-        version: 3.14.0
+        specifier: 3.15.0
+        version: 3.15.0
     devDependencies:
       '@tsconfig/node-ts':
         specifier: 23.6.4
@@ -935,8 +935,8 @@ packages:
     resolution: {integrity: sha512-qcJu88Q2IWqJsDD529JKMdwGm/dvInW4HvQnRwiH9JtihJvzGOscDtHE3x1pBKeUOTysQ8kVmLnJ2kJu7yhcGA==}
     engines: {node: '>=12'}
 
-  railway@3.14.0:
-    resolution: {integrity: sha512-8UXXtpujU58ZbmVrS0t3wlwgngLIoBL5UgxYCuqff759WV751lYwTLGXVkkEgb3V6blBilJGynKSCQY2hjViug==}
+  railway@3.15.0:
+    resolution: {integrity: sha512-GepNfVL/ht0I8LCYLeSXk6FUtzGf63+3FZ/JRmgepthqN3rCgTtQNndQti7LRiPHX7i4Rd5KfZv9y3S0OXx1LQ==}
     engines: {node: '>=22'}
     hasBin: true
 
@@ -1484,7 +1484,7 @@ snapshots:
 
   picomatch@4.0.7: {}
 
-  railway@3.14.0:
+  railway@3.15.0:
     dependencies:
       '@graphql-typed-document-node/core': 3.2.0(graphql@16.14.2)
       graphql: 16.14.2
