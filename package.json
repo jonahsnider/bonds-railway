@@ -18,9 +18,9 @@
 		"railway": "3.16.0"
 	},
 	"devDependencies": {
-		"@tsconfig/node-ts": "23.6.4",
-		"@tsconfig/node24": "24.0.5",
-		"@tsconfig/strictest": "2.0.8",
+		"@tsconfig/node-ts": "23.6.5",
+		"@tsconfig/node24": "24.0.6",
+		"@tsconfig/strictest": "2.0.9",
 		"@types/node": "26.6.6",
 		"knip": "6.45.1",
 		"oxfmt": "0.78.0",
